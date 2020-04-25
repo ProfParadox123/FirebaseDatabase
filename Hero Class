@@ -1,0 +1,12 @@
+// Hero.lt
+// new class
+
+
+
+package com.cerberus.firebasesample
+
+class Hero(val id:String, val name: String, val rating: Int) {
+
+
+
+}
